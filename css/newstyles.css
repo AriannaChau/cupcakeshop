@@ -1,0 +1,26 @@
+h1 {
+  text-align: center;
+  font-family: cursive;
+}
+
+h2 {
+  font-family: inherit;
+
+}
+body {
+  background-color: #D0EEBF;
+}
+
+p.intro {
+  text-align: center;
+}
+
+.flashy {
+  color: #AA3005;
+  font-style: italic;
+}
+
+.best {
+  font-style: italic;
+  font-style: bold;
+}
